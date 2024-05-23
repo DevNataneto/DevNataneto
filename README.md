@@ -23,10 +23,10 @@
   <tr>
     <td><img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="gif" width="350" height="350"></td>
     <td style="vertical-align: top;">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"><br>
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"><br>
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"><br>
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      <a href="https://www.instagram.com/leanataneto"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a><br>
+      <a href="https://www.twitter.com/_nataneto"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a><br>
+      <a href="https://www.linkedin.com/in/natanael-neto-422276237"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
+      <a href="mailto:seu_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     </td>
   </tr>
 </table>
