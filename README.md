@@ -4,7 +4,7 @@
 
 ## Opa!! Tudo bem? Eu sou o **Natan**. <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Wave" width="20">
 
-#### Sou um desenvolvedor back-end apaixonado por jogos, computação e ensino.
+#### Sou um desenvolvedor fullstack apaixonado por jogos, computação e ensino.
 
 ### **Algumas tecnologias que tenho trabalhado recentemente:**
 
